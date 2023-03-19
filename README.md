@@ -1,8 +1,6 @@
 ### Hi there 👋
-🔭🌱💬🔭🌱🤔📫🔭<br>
-🔭I AM A DEVELOPER🔭<br>
-🔭🌱👯📫⚡🌱💬🔭
-<br>
+
+I AM A SOFTWARE PROGRAMMER<br>
 <br>
 🔭 I’m currently working on spring boot and angular framework based projects<br>
 🌱 I like to learn new tools and technology<br>
