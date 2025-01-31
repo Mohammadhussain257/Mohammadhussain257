@@ -10,9 +10,6 @@ I AM A SOFTWARE PROGRAMMER<br>
 ![](https://komarev.com/ghpvc/?username=your-github-Mohammadhussain257&style=for-the-badge)
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammadhussain257&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadhussain257&theme=tokyonight)
 <br>
 <br>
